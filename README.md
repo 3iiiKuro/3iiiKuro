@@ -8,7 +8,7 @@ Designing is more than just code—it's about capturing a vibe, a story. I’m e
 
 ### 🌐 Beyond the Screen
 When I'm not crafting websites, you can find me:
-- 📸 Exploring nature outside Edmonton, capturing the perfect shot in the stillness beyond city life.
+- 📸 Exploring ubran streets outside Edmonton, capturing the perfect shot in the stillness beyond city life.
 - ☕ Sipping on a delicious dirty chai at one of my favorite local cafes.
 
 Let’s connect and create something amazing together!
