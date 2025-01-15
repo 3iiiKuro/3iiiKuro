@@ -1,6 +1,4 @@
-# Heyo! 👋  
-## About Me
-
+# Hello world
 I'm **David Burguillos**, a Web Development student at NAIT, striving to be come a UX/UI designer.
 
 ### How I Design
