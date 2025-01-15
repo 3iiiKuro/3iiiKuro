@@ -1,7 +1,7 @@
 # Heyo! 👋  
 ## About Me
 
-I'm **David Burguillos**, a Web Design student at NAIT, diving deep into the world of design and digital creativity.
+I'm **David Burguillos**, a Web Development student at NAIT, striving to be come a UX/UI designer.
 
 ### How I Design
 Design to me is making noise. Making things stand out and pop out. Whether it comes to fashion or design, I want to make a statement about who I am. I stay consitent to show that it's just me.
