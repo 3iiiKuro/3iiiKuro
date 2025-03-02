@@ -1,12 +1,8 @@
-# Hello world
-I'm **David Burguillos**, a Web Development student at NAIT, striving to be come a UX/UI designer.
+<div style="background-color: #333333; color: #f3f3f3; padding: 20px;">
+  <h1>Welcome to My GitHub Profile</h1>
+  [![VSCO](https://img.shields.io/badge/VSCO-threedesigned-lightgrey?style=flat-square&logo=vsco)](https://vsco.co/threedesigned/gallery)
+  [![Instagram](https://img.shields.io/badge/Instagram-threedesigned-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/threedesigned)
 
-### How I Design
-Design to me is making noise. Making things stand out and pop out. Whether it comes to fashion or design, I want to make a statement about who I am. I stay consitent to show that it's just me.
+  <p>This section has a custom background and font color!</p>
 
-### Behind all the coding
-When I'm not melting down, trying to learn new things, you can find me:
-- Modding and retexturing games like Cyberpunk 2077 and Monster Hunter World
-- You can also catch me taking pictures of all my favourite cars around Edmonton. @3iiiKuro on Instagram
-
-Let me know if I can help you with anything. I'm always here.
+</div>
